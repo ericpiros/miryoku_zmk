@@ -1,4 +1,4 @@
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-outboard_modules="ericpiros/zmk-keyboard-toucan2/toucan_dongle caksoylar/zmk-rgbled-widget/v0.3-branch petejohanson/cirque-input-module/main beekeeb/zmk-input-zoom/main"
+outboard_modules="ericpiros/zmk-keyboard-toucan2/toucan_dongle caksoylar/zmk-rgbled-widget/v0.3-branch petejohanson/cirque-input-module/main beekeeb/zmk-input-zoom/main beekeeb/zmk_driver_azoteq/main"
